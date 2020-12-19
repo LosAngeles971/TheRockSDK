@@ -1,4 +1,4 @@
-name: Wormhole Go
+name: The Rock SDK Go
 
 on:
   workflow_dispatch:
